@@ -34,7 +34,7 @@ body {
     min-width: 480px;
     height: 270px;
     border-radius: 30px;
-    background-color:#e9e8e8;
+    background-color:#fbfbfb;
     box-shadow:  5px 5px 10px #696868,
              -5px -5px 10px #f9f6f6;
     position: relative;  
@@ -82,7 +82,7 @@ body {
     width: 174px;
     height: 48px;
     border-radius: 7px;
-    background-color: #e9e8e8;
+    background-color: #fbfbfb;
     display: flex;
     justify-content: center;
     align-items: center;
