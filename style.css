@@ -142,7 +142,6 @@ button:active {
 .circle {
     width: 9rem;
     height: 9rem;
-    background-color: #e9e8e8;
     /*box-shadow: inset 5px 5px 10px rgba(0, 0, 0,0.2), inset -5px -5px 10px rgba(248, 248, 248, 0.5);*/
     position: absolute;
     display: flex;
